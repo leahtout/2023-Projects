@@ -42,7 +42,7 @@ def main():
             itemRemove = str(input("\nPlease enter the name of the item you wish to remove: "))
             itemRemove = itemRemove.capitalize()
         
-            itemExists2 = None  #yes, i'm going to have multiple of the itemExists just in 1 2 3 form because why not lol
+            itemExists2 = None  
         
             for item in groceryList:
                 if item[0] == itemRemove:
