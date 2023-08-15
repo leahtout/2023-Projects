@@ -1,9 +1,4 @@
-/* 
-Leah Toutounjian
-CSIS 112
-Programming Exam #1
-Summer 2023
-*/
+
 
 import java.util.Scanner;
 import java.text.DecimalFormat;
