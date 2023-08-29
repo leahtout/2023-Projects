@@ -1,3 +1,5 @@
+#Import Minesweeper.py to run properly, or else undefined functions will cause errors and code will not run
+
 import Minesweeper
 import random
 
